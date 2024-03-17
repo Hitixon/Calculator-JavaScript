@@ -1,7 +1,9 @@
 
 █▀▀ ▄▀█ █   █▀▀ █ █ █   ▄▀█ ▀█▀ █▀█ █▀█
-█▄▄ █▀█ █▄▄ █▄▄ █▄█ █▄▄ █▀█  █  █▄█ █▀▄ in
-JavaScript, HTML, CSS
+█▄▄ █▀█ █▄▄ █▄▄ █▄█ █▄▄ █▀█  █  █▄█ █▀▄ 
+
+
+in JavaScript, HTML, CSS
 
 1. Create a folder with the name you want.
 
